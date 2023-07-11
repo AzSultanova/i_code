@@ -1,1 +1,11 @@
+ID
+1
+Summary
+Check header tabs
+Preconditions
+Открыт сайт https://zara-ashi.github.io/restourant/
+Steps
+1) Кликнуть раздел "Menu"                   Expected result: Отобразиться раздел "Menu"
+2) Кликнуть раздел "Sale"                   Expected result: Отобразиться раздел "Sale"
+3) Кликнуть раздел "About"                  Expected result: Отобразиться раздел "About"
 
